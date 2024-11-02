@@ -1,4 +1,5 @@
 password.txt
+.env
 src
 vscode
 jenkins
